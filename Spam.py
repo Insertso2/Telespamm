@@ -1,5 +1,5 @@
-Import telebot
-Import random
+import telebot
+import random
 
 token2 = '5195249320:AAHbVHkq3yyj2rRl2Ueesdzn-VctgZ4ijLc' 
 bot = telebot.TeleBot(input('введите токен бота'))
