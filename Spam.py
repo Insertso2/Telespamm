@@ -7,6 +7,6 @@ bot = telebot.TeleBot(input('введите токен бота'))
 Chat_id = int(input('введите id чата')) 
 User_input = input('введите сообщение')
 
-while User_input = 'end'
+while User_input == 'end'
  messages.append(User_input)
  User_input = input('введите сообщение')
